@@ -1,0 +1,10 @@
+nav{
+    background-color: rgb(75, 184, 39);
+    color: azure;
+    text-align: center;
+    width:400px;
+    margin: 10px auto;
+    padding: 10px 0px;
+    border-radius:5px;
+    font-family: 'Roboto', sans-serif;
+}

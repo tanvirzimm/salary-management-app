@@ -1,0 +1,13 @@
+.result-area{
+    background-color: white;
+    color: #565a56;
+    padding: 20px;
+    border-radius: 11px;
+    box-shadow: 5px 5px 9px grey;
+    position: fixed;
+    left: 63%;
+}
+
+.result-area span{
+    color:red;
+}

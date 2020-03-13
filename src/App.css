@@ -1,4 +1,7 @@
-
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+body{
+  background-color: #C2C3D4;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
